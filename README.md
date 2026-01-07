@@ -1,19 +1,19 @@
-# 💫 About Me:
+# About Me:
 Software Developer | MERN Stack | AI & GenAI Enthusiast
 
 
  Hi, I’m Sahil Singh
- 🚀 Software Developer | MERN Stack | AI & GenAI Enthusiast
- 💡 Passionate about building scalable products and solving real-world problems with code.
+  Software Developer | MERN Stack | AI & GenAI Enthusiast
+  Passionate about building scalable products and solving real-world problems with code.
  
- # 🧠 About Me
+ #  About Me
  - Strong foundation in Data Structures & Algorithms
  - Experienced in building production-ready full-stack applications
  - Hands-on with AI/ML & Generative AI projects
  - Enjoy working on backend-heavy systems, system design, and real-world problem solving
  - Always learning, always building
  
-# 💻 Tech Stack:
+# Tech Stack:
 -  Languages: C++, JavaScript, Python , Java
 -  Frontend: React.js, Tailwind CSS, HTML, CSS
 -  Backend & APIs: Node.js, RESTful APIs, JWT Authentication, MVC Architecture, Express.js
@@ -22,11 +22,11 @@ Software Developer | MERN Stack | AI & GenAI Enthusiast
 -  GenAI: RAG pipelines, prompt engineering, LLM integrations
 -  Tools: Git, Docker, Postman, Vite, GitHub, VS Code, IntelliJ, PyCharm, Kaggle
 -  Cloud & Deployment: AWS, Docker, Streamlit, GitHub Actions (CI/CD)
--  🧠 Strong in DSA, system design basics, and real-world project execution.
+-   Strong in DSA, system design basics, and real-world project execution.
 
-🚀 Actively building and deploying full-stack + AI-powered applications.
+Actively building and deploying full-stack + AI-powered applications.
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sahilraj87083&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahilraj87083&theme=dark&hide_border=false)<br/>
