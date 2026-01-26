@@ -1,12 +1,9 @@
 # About Me:
-Software Developer | MERN Stack | AI & GenAI Enthusiast
-
 
  Hi, I’m Sahil Singh
   Software Developer | MERN Stack | AI & GenAI Enthusiast
   Passionate about building scalable products and solving real-world problems with code.
- 
- #  About Me
+
  - Strong foundation in Data Structures & Algorithms
  - Experienced in building production-ready full-stack applications
  - Hands-on with AI/ML & Generative AI projects
