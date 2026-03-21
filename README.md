@@ -30,7 +30,7 @@ Actively building and deploying full-stack + AI-powered applications.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraj87083&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![222829](https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67)
+
 
 
 # 💻 Tech Stack:
